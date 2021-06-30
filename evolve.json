@@ -1,0 +1,8 @@
+{
+    "Anoleaf":[16, "gectile"],
+    "Gectile":[32, "velocitile"],
+    "Agnite":[16, "agnidon"],
+    "Agnidon":[36, "agnigon"],
+    "Tweesher":[16, "Heronquak"],
+    "heronquak":[36, "eaglace"]
+}

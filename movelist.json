@@ -1,0 +1,71 @@
+{
+    "anoleaf": {
+        "1":["tackle", "growl"],
+        "3":"vinewhip",
+        "6":"growth",
+        "9":"leechseed",
+        "12":"razorleaf",
+        "15":["poisonpowder", "sleeppowder"],
+        "18":"seedbomb"
+    },
+    "gectile": {
+        "1":["tackle", "growl", "vinewhip", "growth"],
+        "9":"leechseed",
+        "12":"razorleaf",
+        "15":["poisonpowder", "sleeppowder"],
+        "20":"seedbomb"
+    },
+    "velocitile": {
+        "1":["tackle", "growl", "vinewhip", "growth"],
+        "9":"leechseed",
+        "12":"razorleaf",
+        "15":["poisonpowder", "sleeppowder"],
+        "20":"seedbomb"
+    },
+    "agnite": {
+        "1":["scratch", "growl"],
+        "4":"ember",
+        "8":"smokescreen",
+        "12":"dragonbreath",
+        "17":"firefang",
+        "20":"slash",
+        "24":"flamethrower"
+    },
+    "agnidon": {
+        "1":["scratch", "growl", "ember", "smokescreen"],
+        "12":"dragonbreath",
+        "19":"firefang",
+        "24":"slash",
+        "30":"flamethrower"
+    },
+    "agnigon": {
+        "1":["scratch", "growl", "ember", "smokescreen"],
+        "12":"dragonbreath",
+        "19":"firefang",
+        "24":"slash",
+        "30":"flamethrower"
+    },
+    "tweesher": {
+        "1":["tackle", "tailwhip"],
+        "3":"watergun",
+        "6":"withdraw",
+        "9":"rapidspin",
+        "12":"bite",
+        "15":"waterpulse",
+        "18":"protect"
+    },
+    "heronquak": {
+        "1":["tackle", "tailwhip", "watergun", "withdraw"],
+        "9":"rapidspin",
+        "12":"bite",
+        "15":"waterpulse",
+        "18":"protect"
+    },
+    "eaglace": {
+        "1":["tackle", "tailwhip", "watergun", "withdraw"],
+        "9":"rapidspin",
+        "12":"bite",
+        "15":"waterpulse",
+        "18":"protect"
+    }
+}

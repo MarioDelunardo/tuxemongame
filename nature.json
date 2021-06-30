@@ -1,0 +1,34 @@
+{
+    "calm": {
+        "IVhp":3,
+        "IVatk":2,
+        "IVspatk":2,
+        "IVdeff":5,
+        "IVspdeff":4,
+        "IVspd":3
+    },
+    "neutral": {
+        "IVhp":3,
+        "IVatk":3,
+        "IVspatk":3,
+        "IVdeff":3,
+        "IVspdeff":3,
+        "IVspd":3
+    },
+    "agile": {
+        "IVhp":3,
+        "IVatk":4,
+        "IVspatk":2,
+        "IVdeff":4,
+        "IVspdeff":2,
+        "IVspd":5
+    },
+    "agressive": {
+        "IVhp":3,
+        "IVatk":5,
+        "IVspatk":4,
+        "IVdeff":2,
+        "IVspdeff":2,
+        "IVspd":3
+    }
+}
