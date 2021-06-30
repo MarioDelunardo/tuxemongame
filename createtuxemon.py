@@ -2,7 +2,7 @@ from tuxemon import Tuxemon
 from moves import Attack
 import json
 import random
-DIR = "/home/mariodelunardo/Documents/Tuxemon/v2_tuxemons/"
+DIR = "~/tuxemongame/"
 
 '''
 This function creates a tuxemon as an Object of the Class Tuxemon
