@@ -10,7 +10,7 @@
 
  Many thanks to all the people who make this Python course possible.
 
- There is a project already in progress with Tuxemon theme. Make shure to check it out:
+ There is a project already in progress with Tuxemon theme. Make sure to check it out:
  https://tuxemon.org/
 
  Some notes:
